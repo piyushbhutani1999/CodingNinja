@@ -1,0 +1,2 @@
+g++ filename
+g++ a.out >Output1.txt <Input1.txt
