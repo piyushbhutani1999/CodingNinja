@@ -1,2 +1,2 @@
-g++ filename
-g++ a.out >Output1.txt <Input1.txt
+g++ filename.cpp
+g++ ./a.out >Output1.txt <Input1.txt
